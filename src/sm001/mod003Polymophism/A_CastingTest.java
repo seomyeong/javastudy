@@ -1,7 +1,6 @@
 package sm001.mod003Polymophism;
 public class A_CastingTest {
 	public static void main(String[] args) {
-		System.out.println("gitTest111");
 		Car c = new Car();
 		c.drive();
 		

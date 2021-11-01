@@ -1,0 +1,4 @@
+3
+ABC 가나다 140 true
+DEF 라마바 130 false
+GHI 사아자 120 true
